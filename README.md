@@ -1,4 +1,4 @@
-Software engineer working mostly in Java and Kotlin. I have been working as a Android developer for more than 2 years, and as a software engineer for 3 years. But I can tinker with any technology.
+Software engineer working mostly in Java and Kotlin. I have been working as a Android developer for more than 2 years, and as a software engineer for 3 years. 
 
 - 📫 How to reach me: [www.linkedin.com/in/ahsan-ejaz-khan-b9a6551ba] 
 
