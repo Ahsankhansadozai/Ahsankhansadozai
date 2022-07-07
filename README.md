@@ -3,7 +3,10 @@ Software engineer working mostly in Java and Kotlin. I have been working as a An
 Specialized in kotlin , Java , MVVM , MVI, Room, Retrofit, DI , Flow
 
 
+
 - 📫 How to reach me: [www.linkedin.com/in/ahsan-ejaz-khan-b9a6551ba] 
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsankhansadozai&show_icons=true&theme=radical)
 
