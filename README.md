@@ -1,4 +1,4 @@
-Software engineer working mostly in Java and Kotlin. I have been working as a Android developer for more than 3 years.
+Software engineer working mostly in Java and Kotlin. I have been working as a Android developer for more than 3.5 years.
 
 Specialized in kotlin , Java , MVVM , MVI, Room, Retrofit, DI , Flow , JetPack Compose. MVVM . MVI, Clean Architecture.
 
