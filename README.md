@@ -1,6 +1,8 @@
-Software engineer working mostly in Java and Kotlin. I have been working as a Android developer for more than 3.5 years.
+Software engineer working mostly in Java and Kotlin. I have been working as a Android developer for more than 4 years.
 
 Specialized in kotlin , Java , MVVM , MVI, Room, Retrofit, DI , Flow , JetPack Compose. MVVM . MVI, Clean Architecture.
+
+Also Flutter , Dart.
 
 - 📫 How to reach me: [www.linkedin.com/in/ahsan-ejaz-khan-b9a6551ba] 
 
