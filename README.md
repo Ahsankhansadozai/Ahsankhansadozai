@@ -15,4 +15,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ahsan-ejaz-khan-b9a655
 #### 🌟 Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsankhansadozai&langs_count=8)](https://github.com/ahsankhansadozai/github-readme-stats)
 
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/ahsans/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
