@@ -22,9 +22,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ahsan-ejaz-khan-b9a655
 <a href="https://github.com/ahsankhansadozai/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsankhansadozai&layout=compact&langs_count=8&card_width=320" />
 </a>
-<a href="https://github.com/ahsankhansadozai/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsankhansadozai&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/ahsankhansadozai/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahsankhansadozai&repo=convoychat" />
-</a>
+
+![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsankhansadozai&show_icons=true&theme=radical)
+
