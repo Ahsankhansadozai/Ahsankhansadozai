@@ -16,4 +16,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ahsan-ejaz-khan-b9a655
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsankhansadozai&langs_count=8)](https://github.com/ahsankhansadozai/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsankhansadozai&layout=pie)](https://github.com/ahsankhansadozai/github-readme-stats)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/ahsankhansadozai/bbfce31e0217a3689c8d961a356cb10d/)
