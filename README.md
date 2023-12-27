@@ -17,3 +17,14 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ahsan-ejaz-khan-b9a655
 
 
 
+picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ahsankhansadozai&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ahsankhansadozai&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsankhansadozai&show_icons=true" />
+</picture>
