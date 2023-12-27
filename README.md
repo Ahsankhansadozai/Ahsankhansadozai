@@ -15,3 +15,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ahsan-ejaz-khan-b9a655
 #### 🌟 Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsankhansadozai&langs_count=8)](https://github.com/ahsankhansadozai/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/ahsankhansadozai/github-readme-stats)
