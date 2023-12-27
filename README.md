@@ -15,13 +15,3 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ahsan-ejaz-khan-b9a655
 #### 🌟 Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsankhansadozai&langs_count=8)](https://github.com/ahsankhansadozai/github-readme-stats)
 
-
-<a href="https://github.com/ahsankhansadozai/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ahsankhansadozai" />
-</a>
-<a href="https://github.com/ahsankhansadozai/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsankhansadozai&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsankhansadozai&show_icons=true&theme=radical)
-
