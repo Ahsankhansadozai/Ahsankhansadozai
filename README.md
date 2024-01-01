@@ -1,5 +1,5 @@
 ### Hi there👋
-I love exploring traveling and continuously  learning new technologies.
+I love traveling and continuously  learning new technologies.
 
 Currently focussing on iOS development, SwiftUI, Flutter RiverPod, and doing research work on Fake news Detection.
 
