@@ -1,18 +1,19 @@
-### Hi there, I'm Ahsan Ejaz Khan! 👋
+### Hi there👋
+I love exploring traveling and continuously  learning new technologies.
 
-I'm a passionate software engineer with a focus on Android development, specializing in Kotlin, Java, MVVM, MVI, Room, Retrofit, DI, Flow, JetPack Compose, and Clean Architecture. I've been in the Android development field for more than 4 years, delivering high-quality and efficient solutions.
+Currently focussing on iOS development, SwiftUI, Flutter RiverPod, and doing research work on Fake news Detection.
 
-#### 🔧 Technologies & Tools:
-- Kotlin, Java, MVVM, MVI, Room, Retrofit, DI, Flow, JetPack Compose
-- Clean Architecture, Flutter, Dart
+### Tools/technologies I'm familiar with:
 
-#### 📫 How to reach me:
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ahsan-ejaz-khan-b9a6551ba)
+### Mobile:
+ Android,  iOS,  Flutter
 
-#### 📊 GitHub Stats:
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsankhansadozai&show_icons=true&theme=radical)
+### Databases:
+Sqlite,  Room, Sqflite, Floor, Hive, Mysql
 
-#### 🌟 Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsankhansadozai&langs_count=8)](https://github.com/ahsankhansadozai/github-readme-stats)
+### Languages
+Java, Kotlin, Dart, Swift
+
+
 
 
