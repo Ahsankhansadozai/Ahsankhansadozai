@@ -1,5 +1,5 @@
 ### Hi there👋
-I love traveling and continuously  learning new technologies.
+I love traveling, designing, and continuously learning new technologies.
 
 Currently focussing on iOS development, SwiftUI, Flutter RiverPod, and doing research work on Fake news Detection.
 
@@ -8,11 +8,20 @@ Currently focussing on iOS development, SwiftUI, Flutter RiverPod, and doing res
 ### Mobile:
  Android,  iOS,  Flutter
 
+ ### Architectures:
+ MVC, MVP, MVVM, MVI, Single Activity
+
+ ### Tools
+ Android Studio, Vscode, Xcode, Figma
+
 ### Databases:
 Sqlite,  Room, Sqflite, Floor, Hive, Mysql
 
 ### Languages
 Java, Kotlin, Dart, Swift
+
+### Learning new Languages
+Python
 
 
 
