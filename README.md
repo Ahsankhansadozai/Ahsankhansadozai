@@ -23,6 +23,8 @@ Java, Kotlin, Dart, Swift
 ### Learning new Languages
 Python
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ahsankhansadozai&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
 
 
 
